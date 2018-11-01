@@ -1,4 +1,4 @@
-# Programs in C
+# Guess the Binary 
 
 The idea of this project is to show how signals are used within these three files: launcher, guesser, answerer.
 
